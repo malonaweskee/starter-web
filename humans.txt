@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Phillip Malinoski	phillip.malinoski@gmail.com
 
 # THANKS
 
